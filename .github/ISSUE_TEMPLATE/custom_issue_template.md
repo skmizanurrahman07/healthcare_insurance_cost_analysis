@@ -1,6 +1,6 @@
 ---
 name: Custom_issue_template
-about: For_Health_InsuranceCost_Analysis
+about: For_Healthcare_InsuranceCost_Analysis
 title: ''
 labels: ''
 assignees: ''
