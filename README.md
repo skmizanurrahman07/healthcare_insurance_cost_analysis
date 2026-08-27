@@ -99,6 +99,7 @@ The libraries used for data analysis were:
 - [ChatGPT](https://chatgpt.com/) - Help getting handles and making a single legend on a multi chart plots and adding layout changes to Plotly charts.
 - [SimpleSteps.guide](https://simplesteps.guide/guides/technology/machine-learning-ai) - My notes I recorded from the Code Institute course.
 - copilot
+- code institute students
 ## Acknowledgements (optional)
 
 * Thank the people who supported this project.
