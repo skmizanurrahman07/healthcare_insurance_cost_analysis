@@ -1,4 +1,4 @@
-Age,Age_Group,Age_Group_num,Sex,Sex_num,BMI,BMI_Group,BMI_Group_num,Children,Plan,Plan_num,Smoker,Smoker_num,Region,Region_num,Charges,Charges_Per_Person,Charges_Outlier,Charges_Per_Person_Outlier
+Age,Age_Group,Age_Group_num,Sex,Sex_num,B_M_I,BMI_Group,BMI_Group_num,Children,Plan,Plan_num,Smoker,Smoker_num,Region,Region_num,Charges,Charges_Per_Person,Charges_Outlier,Charges_Per_Person_Outlier
 19,Ages 18-25,0,Female,0,27.9,Overweight,2,0,Standard,1,Yes,1,Southwest,3,16884.924,16884.924,False,False
 18,Ages 18-25,0,Male,1,33.77,Obese,3,1,Family,0,No,0,Southeast,2,1725.5523,862.77615,False,False
 28,Ages 26-34,1,Male,1,33.0,Obese,3,3,Family,0,No,0,Southeast,2,4449.462,1112.3655,False,False
