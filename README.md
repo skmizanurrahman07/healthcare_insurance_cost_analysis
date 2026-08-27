@@ -1,6 +1,6 @@
 # Healthcare Insurance Cost Analysis Project
 
-This project set out to explore how Data Analytics and AI tools can be use to extract inside information from raw datasets into meaningful insights that utilise for prediction and decesion manking in data driven organisation and for business success. The healthcare Insurance Cost Analysis Project seeks empirically to explore systematic approach to analyse raw datasets and its rationale to identify how different age, gender, habit and health condition affect health insureance cost in various location. In this Jupyter notebook, therefore, performing the steps data cleaning and  data visualisation. 
+This project set out to explore how Data Analytics and AI tools can be use to extract inside information from raw datasets into meaningful insights that utilise for prediction and decesion manking in data driven organisation and for business success. The healthcare Insurance Cost Analysis Project seeks empirically to explore systematic approach to analyse raw datasets and its rationale to identify how different age, gender, habit and health condition affect health insurence cost in various location. In this Jupyter notebook, therefore, performing the steps data cleaning and  data visualisation. 
 
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
@@ -99,6 +99,7 @@ The libraries used for data analysis were:
 - [ChatGPT](https://chatgpt.com/) - Help getting handles and making a single legend on a multi chart plots and adding layout changes to Plotly charts.
 - [SimpleSteps.guide](https://simplesteps.guide/guides/technology/machine-learning-ai) - My notes I recorded from the Code Institute course.
 - copilot
+- code institute students
 ## Acknowledgements (optional)
 
 * Thank the people who supported this project.
